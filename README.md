@@ -12,7 +12,7 @@ Commit : an individual change to a file
 
 Push :let you tell others about changes you've pushed to a branch in a repository 
 
-Pull :Pushing refers to sending your committed changes to a remote repository, such as a repository hosted on GitHub.
+Pull :Pushing refers to sending your committed changes to a remote repository
 
 Branch :a unique set of code changes with a unique name
 
@@ -22,4 +22,4 @@ Merge Conflict :happen when you merge branches that have competing commits
 
 Fetch : downloads commits, files, and refs from a remote repository into your local repo.
 
-Remote : all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server.
+Remote : all team members use to exchange their changes.
